@@ -16,4 +16,4 @@ Planned:
 
 Contributing to **open source** projects for a [Discord-based programming community](https://github.com/strinking).
 
-<<https://joshstock.in>> | joshstockin@gmail.com | joshuas3#9641
+<<https://joshstock.in>> | joshstockin@gmail.com | joshuas3#9641 | [LinkedIn](https://www.linkedin.com/in/joshstockin/)
