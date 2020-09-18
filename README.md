@@ -5,13 +5,9 @@
 Currently working on:
 * [**lognestmonster**](https://github.com/JoshuaS3/lognestmonster): a general-purpose single-header C logging library and parser for event-oriented logs
 * [**auto-plow**](https://github.com/JoshuaS3/auto-plow): a wheelchair motor-propelled battery-powered [ESP32-driven](https://www.youtube.com/watch?v=lfSqagByDVk) remote control snow plow
-* [**joshstock.in**](https://github.com/JoshuaS3/joshstock.in): a backend and template engine for the serving and compilation of content at [https://joshstock.in](https://joshstock.in)
-* [**ncurses-minesweeper**](https://github.com/JoshuaS3/ncurses-minesweeper): a terminal game of Minesweeper, implemented in C with ncurses.
 
 Planned:
 * [**craft**](https://github.com/JoshuaS3/craft): a Vulkan Minecraft clone written in C/C++
-* [**profess**](https://github.com/JoshuaS3/profess): an embedded OpenResty web server that works similarly to Node's express.js
-* [**lua-stdlib-plus**](https://github.com/JoshuaS3/lua-stdlib-plus): an extension of the Lua 5.x standard library; Lua's missing stdlib
 
 Contributing to **open source** projects for a [Discord-based programming community](https://github.com/strinking).
 
