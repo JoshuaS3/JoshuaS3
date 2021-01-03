@@ -4,6 +4,4 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=JoshuaS3&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)](https://github.com/JoshuaS3)
 
-Contributing to **open source** projects for a [Discord-based programming community](https://github.com/strinking).
-
 &lt;<https://joshstock.in>&gt; | josh@joshstock.in | joshuas3#9641
