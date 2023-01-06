@@ -1,9 +1,20 @@
-### Josh Stockin
+### :wave: Josh Stockin
 
-:wave: Hello! I'm Josh Stockin, an 18-year-old student and :computer: computer software and hardware hobbyist. **Reed-Custer High School** graduate &lt;*'22*&gt;. Will attend **University of Illinois Urbana-Champaign** &lt;*'26*&gt; beginning in the fall to study for a **Major in Systems Engineering and Minor in Computer Science**. I love working with everything 🔌 electronics—particularly 🤖 [robotics](https://github.com/JoshuaS3/auto-plow) and embedded systems—as well as other low level [libraries](https://github.com/JoshuaS3/lognestmonster) and [applications](https://github.com/JoshuaS3/ncurses-minesweeper). Survivor of [severe scoliosis](https://joshstock.in/static/images/scoliosis.png).
+19-year-old engineering student.<br>
+Systems Engineering / Computer Science *@ UIUC Grainger (2025)*
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=JoshuaS3&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=gruvbox)](https://github.com/JoshuaS3)
+Will intern at *Milwaukee Tool* for firmware engineering over summer of 2023.
 
-You can find and clone [self-hosted](https://github.com/joshuas3/resty-gitweb) git repositories at &lt;<https://git.joshstock.in>&gt;.
+As of 01/2023, current personal projects include:
+- The next revision of the snow plow (new motors, overhauled electronics with new controllers, sensors, and peripherals, rewritten firmware)
+- Website rewrite (https://joshstock.in)
+- A carbon dioxide (CO2) monitoring/plotting/analytics device (ESP32, ePaper display)
+- resty-gitweb — Git version control interface for HTTP, written for OpenResty (live prototype at https://git.joshstock.in)
+- s3-bsync — Python CLI tool for file backup and bidirectional syncing between local filesystem and Amazon S3
 
-&lt;<https://joshstock.in>&gt; | josh@joshstock.in | joshuas3#9641
+Progress on each is sporadic considering I'm a full time student. At some point I wish to study graphics programming, procedural generation, and geology/climate simulation. Once I've rewritten my website I'll populate the blog with technical writeups on these projects.
+
+You can find and clone self-hosted (with [resty-gitweb](https://github.com/joshuas3/resty-gitweb)) git repositories at &lt;<https://git.joshstock.in>&gt;.
+
+Josh Stockin &lt;josh@joshstock.in&gt; &lt;stockin2@illinois.edu&gt;<br>
+[https://joshstock.in] [https://github.com/joshuas3]
